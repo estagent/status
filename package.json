@@ -1,7 +1,7 @@
 {
   "name": "@revgaming/status",
   "author": "estagent <estagent@gmail.com>",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "http status codes",
   "homepage": "https://github.com/estagent/status",
   "main": "src/index.js",
